@@ -1,4 +1,4 @@
-![MasterHead]([https://thumbs.dreamstime.com/z/software-development-programming-coding-vector-concept-technology-web-banner-isometric-illustration-landing-page-process-173059889.jpg](https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX54697784.jpg))
+![Mokoto Glitch 1](https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX54697784.jpg)
 <h1 align="center">Hi 👋, I'm Tonima Das</h1>
 <h3 align="center">I'm a college student. And also, a frontend developer in India.</h3>
 
