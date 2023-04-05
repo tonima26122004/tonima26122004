@@ -1,10 +1,10 @@
-![MasterHead](https://thumbs.dreamstime.com/z/software-development-programming-coding-vector-concept-technology-web-banner-isometric-illustration-landing-page-process-173059889.jpg)
+![MasterHead]([https://thumbs.dreamstime.com/z/software-development-programming-coding-vector-concept-technology-web-banner-isometric-illustration-landing-page-process-173059889.jpg](https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX54697784.jpg))
 <h1 align="center">Hi 👋, I'm Tonima Das</h1>
 <h3 align="center">I'm a college student. And also, a frontend developer in India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonima26122004&label=Profile%20views&color=0e75b6&style=flat" alt="tonima26122004" /> </p>
 
-<img align="right" alt="Coding" wight="400" style="max-width: 100% src="https://www.uh.edu/research/_images/sites/hpe-dsi/news/2020/girls-coding-academy-flyer-2020-8.5x11_uh-branding-cropped.jpg">
+<img align="right" alt="Coding" wight="400" style="max-width: 100% src="https://static.vecteezy.com/system/resources/thumbnails/003/815/991/small/female-programmer-doing-software-coding-free-vector.jpg">
 
 <p align="left"> <a href="https://twitter.com/tonimadas" target="blank"><img src="https://img.shields.io/twitter/follow/tonimadas?logo=twitter&style=for-the-badge" alt="tonimadas" /></a> </p>
 
