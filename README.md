@@ -1,6 +1,6 @@
 ![Mokoto Glitch 1](https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX54697784.jpg)
 <h1 align="center">Hi 👋, I'm Tonima Das</h1>
-<h3 align="center">I'm a college student. And also, a frontend developer in India.</h3>
+<h3 align="center">I'm a college student. And also, I have knowledge about "HTML","CSS","Python","C".</h3>
 <img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonima26122004&label=Profile%20views&color=0e75b6&style=flat" alt="tonima26122004" /> </p>
