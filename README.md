@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Tonima Das</h1>
 <h3 align="center">I'm a college student. And also, I have knowledge about "HTML","CSS","Python","C".</h3>
 <hr>
+
+
 <img align="right" alt="Coding" width="300" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonima26122004&label=Profile%20views&color=0e75b6&style=flat" alt="tonima26122004" /> </p>
@@ -36,5 +38,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=tonima26122004&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" alt="
 tonima26122004"/></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tonima26122004&theme=onedark&hide_border=true" alt="don2604" /></p>
 
 <p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=tonima26122004&theme=onedark&hide_border=true&show_icons=true&locale=en&layout=compact" alt="tonima26122004" /></p>
