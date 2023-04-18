@@ -36,9 +36,9 @@
 
 <h2># GitHub Stats 📊:</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=tonima26122004&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" alt="
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=tonima26122004&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" alt="
 tonima26122004"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tonima26122004&theme=onedark&hide_border=true" alt="tonima26122004" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tonima26122004&theme=onedark&hide_border=true" alt="tonima26122004" /></p>
 
-<p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=tonima26122004&theme=onedark&hide_border=true&show_icons=true&locale=en&layout=compact" alt="tonima26122004" /></p>
+<p><p><img align=""  src="https://github-readme-stats.vercel.app/api/top-langs?username=tonima26122004&theme=onedark&hide_border=true&show_icons=true&locale=en&layout=compact" alt="tonima26122004" /></p></p>
