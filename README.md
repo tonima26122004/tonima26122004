@@ -42,7 +42,8 @@ tonima26122004"/></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tonima26122004&theme=onedark&hide_border=true" alt="tonima26122004" /></p>
 
 <p><p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=tonima26122004&theme=onedark&hide_border=true&show_icons=true&locale=en&layout=compact" alt="tonima26122004" /></p></p>
-<p>
+
 ### 🏆Badges
-[![An image of @don2604's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/don2604)](https://holopin.io/@don2604)
-</p>
+[![An image of @tonima26122004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tonima26122004)](https://holopin.io/@tonima26122004)
+
+
