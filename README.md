@@ -1,7 +1,7 @@
 ![Banner](https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX54697784.jpg)
 <hr>
 <h1 align="center">Hi 👋, I'm Tonima Das</h1>
-<h3 align="center">I'm a college student. And also, I have knowledge about "HTML","CSS","Python","C".</h3>
+<h3 align="center">I'm a <b>Web and App Developer</b></h3>
 <hr>
 
 
