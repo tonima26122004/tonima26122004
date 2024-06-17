@@ -2,7 +2,7 @@
 <img src="https://github.com/tonima26122004/tonima26122004/assets/113163028/b0bc68b2-5564-49e0-83ea-cd46eed511d1">
 <hr>
 <h1 align="center">Hi 👋, I'm Tonima Das</h1>
-<h3 align="center">I'm a <b>Web and App Developer</b></h3>
+<h3 align="center">I'm a <b>Web and App Developer.Also a UI/UX Designer.</b></h3>
 <hr>
 
 
@@ -16,7 +16,7 @@
 <p align="left"> <a href="https://twitter.com/tonimadas" target="blank"><img src="https://img.shields.io/twitter/follow/tonimadas?logo=twitter&style=for-the-badge" alt="tonimadas" /></a> </p>
 
 - 🔭 I’m currently working on [Virtual Learning](https://vlearning32.wixsite.com/virtual-learning)
-- 🌱 I’m currently learning **JS AND FLUTTER**
+- 🌱 I’m currently learning **FLUTTER**
 
 - 👨‍💻 All of my projects are available at [https://tonima26122004.github.io/First-Web-side/https://github.com/tonima26122004/Vehicle-Detector-at-sharp-bends](https://tonima26122004.github.io/First-Web-side/https://github.com/tonima26122004/Vehicle-Detector-at-sharp-bends)
 
