@@ -21,7 +21,7 @@
 
 - 👨‍💻 All of my projects are available at [https://tonima26122004.github.io/First-Web-side/https://github.com/tonima26122004/Vehicle-Detector-at-sharp-bends](https://tonima26122004.github.io/First-Web-side/https://github.com/tonima26122004/Vehicle-Detector-at-sharp-bends)
 
-- 💬 Ask me about **Android, Wed Devlopment**
+- 💬 Ask me about **Android, Web Devlopment**
 
 - 📫 How to reach me **tonimadas348@gmail.com**
 
