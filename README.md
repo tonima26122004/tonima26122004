@@ -2,8 +2,8 @@
 <img src="https://github.com/tonima26122004/tonima26122004/assets/113163028/b0bc68b2-5564-49e0-83ea-cd46eed511d1">
 <hr>
 <h1 align="center">Hi 👋, I'm Tonima Das</h1>
-<h3 align="center">I'm a <b>Web and App Developer.</b></h3>
-<h3 align="center">Also a <b>UI/UX Designer.</b></h3>
+<h3 align="center">I'm a <b>UI/UX Designer.</b></h3>
+<h3 align="center">Also a<b> Web and Moble App Developer.</b></h3>
 <hr>
 
 
